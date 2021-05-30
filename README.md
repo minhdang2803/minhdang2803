@@ -5,3 +5,4 @@
 - 🥅 2021 Goals:
     - ✔ Android Development
     - ✔ Data Analysis using Python 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhdang2803)](https://github.com/minhdang2803/github-readme-stats)
