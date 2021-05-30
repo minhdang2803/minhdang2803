@@ -8,7 +8,6 @@
     - 
  # 💻Technologies - Stats #
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&layout=compact&show_icons&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhdang2803&show_icons=true&theme=dracula)
 
 
 
