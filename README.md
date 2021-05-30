@@ -5,7 +5,8 @@
 - 🥅 2021 Goals:
     - ✔ Android Development
     - ✔ Data Analysis using Python 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhdang2803&show_icons=true&theme=dracula)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&layout=compact)](https://github.com/minhdang2803/github-readme-stats)
+Markup :  # 💻Technologies #
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhdang2803&show_icons=true&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&layout=compact)](https://github.com/minhdang2803/github-readme-stats)
 
 
