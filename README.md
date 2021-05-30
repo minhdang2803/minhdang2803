@@ -3,5 +3,5 @@
 - 👀 I’m interested in playing E-Sport: CSGO LOL
 - 🌱 I’m currently self-learning Android Development
 - 🥅 2021 Goals:
-    -✔ Android Development.
-    -✔ Data Analysis using Python 
+    - ✔ Android Development
+    - ✔ Data Analysis using Python 
