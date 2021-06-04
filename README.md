@@ -9,6 +9,6 @@
  # 💻Technologies - Stats #
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&layout=compact&show_icons&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&langs_count=8&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
 
 
