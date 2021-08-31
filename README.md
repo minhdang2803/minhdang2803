@@ -5,7 +5,7 @@
 - 🌱 I’m currently self- studying Android Development
 - 🥅 2021 Goals:
     - Basic Android Development
-    - Flutter for Cross Flatform
+    - Flutter for Cross Platform
     - Data Analysis using Python 
  # 💻Technologies - Stats #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&langs_count=8&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
