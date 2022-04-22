@@ -10,8 +10,12 @@
 - 😥 Currently Studying for School Assignments
     - Web Development
     - Database Management System
+ # 💼Technical Skills
+ [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]
+ [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
  # 💻Technologies - Stats #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&langs_count=8&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
 \\
-
+ # 🤙Contact me !!!
+ ![Instagram](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
