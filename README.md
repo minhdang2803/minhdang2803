@@ -22,7 +22,3 @@
  ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
  # ❤️‍🩹Technologies - Stats #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhdang2803&langs_count=8&theme=dracula)](https://github.com/minhdang2803/github-readme-stats)
-\\
- # 🤙Contact me !!!
- ![Instagram](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
