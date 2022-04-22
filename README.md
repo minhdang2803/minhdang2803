@@ -8,8 +8,7 @@
     - Flutter for Cross Platform
     - Data Analysis using Python
 - 😥 Currently Studying for School Assignments
-    - Web Development
-    - Database Management System
+    - Principle of Programming Language
  # 💼Technical Skills
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
