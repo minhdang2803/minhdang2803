@@ -7,7 +7,7 @@
     - Basic Android Development
     - Flutter for Cross Platform
     - Data Analysis using Python
-- 😥 Currently Studying for School Assignments
+- ♿️ Currently Studying for School Assignments
     - Python for Principle of Programming Language
  # 💼Technical Skills
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
