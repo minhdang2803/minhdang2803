@@ -4,9 +4,11 @@
 - 👀 I’m interested in playing E-Sport: CSGO LOL
 - 🌱 I’m currently self-studying Cross-platform development: Dart & Flutter
 - 🥅 2022 Goals:
-    - Basic Android Development
-    - Flutter for Cross Platform
-    - Data Analysis using Python
+    - [] Basic Flutter for Cross Platform
+    - [] Hive For flutter   
+    - [] Basic Android Development
+    - [] .NET for backend
+    - [] Data Analysis using Python
 - ♿️ Currently Studying for School Assignments
     - Python for Principle of Programming Language
  # 💼Technical Skills
