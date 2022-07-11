@@ -1,6 +1,7 @@
 # Hello ajinomoto 👋 #
 - 👋 I’m @minhdang2803 or Dang Le Minh (full name in Vietnamese)
 - 🏫 Ho Chi Minh City University of Technoloy - Office for International and Study Programs (HCMUT - OISP)
+- 💼 Mobile developer at Viettel Solutions 
 - 👀 I’m interested in girls..
 - 🌱 I’m currently self-studying Cross-platform development: Dart & Flutter
 - 🥅 2022 Goals:
