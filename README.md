@@ -6,7 +6,7 @@
 - 🌱 I’m currently self-studying Cross-platform development: Dart & Flutter
 - 🥅 2022 Goals:
     - [x] Basic Flutter for Cross Platform
-    - [ ] Hive For flutter   
+    - [x] Hive For flutter   
     - [ ] Basic Android Development
     - [ ] .NET for backend
  # 💼Technical Skills
