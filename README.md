@@ -1,24 +1,28 @@
 # Hello ajinomoto 👋 #
 - 👋 I’m @minhdang2803 or Dang Le Minh (full name in Vietnamese)
 - 🏫 Ho Chi Minh City University of Technoloy - Office for International and Study Programs (HCMUT - OISP)
-- 💼 Mobile developer at Viettel Solutions 
+- 💼 Mobile developer at Con Cung Joint Stock Company 
 - 👀 I’m interested in girls..
 - 🌱 I’m currently self-studying Cross-platform development: Dart & Flutter
 - 🥅 2022 Goals:
     - [x] Basic Flutter for Cross Platform
     - [x] Hive For flutter   
-    - [ ] Basic Android Development
-    - [ ] .NET for backend
+    - [x] .NET for backend
+- 🥅 2023 Goals:
+    - [x] Basic Swift & SwiftUI
+    - [ ] NestJS for backend 
+    - [ ] Deep into .Net Core
+ # Platforms
+ ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  # 💼Technical Skills
  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
- ![Android](https://img.shields.io/badge/android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=black)
  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  # ⚙️Frameworks
  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
  # 💻Database
  ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
